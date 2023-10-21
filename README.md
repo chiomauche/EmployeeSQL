@@ -1,16 +1,16 @@
-# sql-challenge
+# sql-analysis
 
 As a new data engineer at Pewlett Hackard (a fictional company). My first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
 For this project, I designed tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answered questions about the data by performing data modeling, data engineering, and data analysis, respectively.
 
-Data Modeling
+# Data Modeling
 To create the sketch, I inspected the CSV files, and then sketched an Entity Relationship Diagram of the tables. 
 
-Data Engineering
+# Data Engineering
 I used the provided information to create a table schema for each of the six CSV files. By remembering to specify the data types, primary keys, foreign keys, and other constraints and be sure to create the tables in the correct order to handle the foreign keys and then imported each CSV file into its corresponding SQL table. 
 
-Data Analysis
+# Data Analysis
 I answered the following questions from the information gotten: 
 
 List the employee number, last name, first name, sex, and salary of each employee.
@@ -31,4 +31,5 @@ List the frequency counts, in descending order, of all the employee last names (
 
 # Entity Relationship Diagram(ERD)
 The Entity-Relationship Diagram provides a visual representation of the organization of tables and their interrelationships within the database. This ERD image was created using QuickDBD.
+
 ![Alt text](<Screenshot 2023-10-20 043730.png>)
