@@ -7,8 +7,12 @@ As a new data engineer at Pewlett Hackard (a fictional company), my first major 
 # Data Modeling
 * To create the sketch, I inspected the CSV files, and then sketched an Entity Relationship Diagram of the tables. 
 
+![Alt text](<Screenshot 2023-10-25 102353.png>)
+
 # Data Engineering
 * I used the provided information to create a table schema for each of the six CSV files. By remembering to specify the data types, primary keys, foreign keys, and other constraints and be sure to create the tables in the correct order to handle the foreign keys and then imported each CSV file into its corresponding SQL table. 
+
+![Alt text](<Screenshot 2023-10-25 102612.png>)
 
 # Data Analysis
 I answered the following questions from the information gotten: 
