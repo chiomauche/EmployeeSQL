@@ -26,6 +26,6 @@ As a new data engineer at Pewlett Hackard (a fictional company), my first major 
   * List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 # Entity Relationship Diagram(ERD)
-The Entity-Relationship Diagram provides a visual representation of the organization of tables and their interrelationships within the database. This ERD image was created using QuickDBD.
+* The Entity-Relationship Diagram provides a visual representation of the organization of tables and their interrelationships within the database. This ERD image was created using QuickDBD.
 
 ![Alt text](<Screenshot 2023-10-20 043730.png>)
