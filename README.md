@@ -1,14 +1,14 @@
 # sql-analysis
 
-As a new data engineer at Pewlett Hackard (a fictional company). My first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
+As a new data engineer at Pewlett Hackard (a fictional company), my first major task was to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
-For this project, I designed tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answered questions about the data by performing data modeling, data engineering, and data analysis, respectively.
+* For this project, I designed tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answered questions about the data by performing data modeling, data engineering, and data analysis, respectively.
 
 # Data Modeling
-To create the sketch, I inspected the CSV files, and then sketched an Entity Relationship Diagram of the tables. 
+* To create the sketch, I inspected the CSV files, and then sketched an Entity Relationship Diagram of the tables. 
 
 # Data Engineering
-I used the provided information to create a table schema for each of the six CSV files. By remembering to specify the data types, primary keys, foreign keys, and other constraints and be sure to create the tables in the correct order to handle the foreign keys and then imported each CSV file into its corresponding SQL table. 
+* I used the provided information to create a table schema for each of the six CSV files. By remembering to specify the data types, primary keys, foreign keys, and other constraints and be sure to create the tables in the correct order to handle the foreign keys and then imported each CSV file into its corresponding SQL table. 
 
 # Data Analysis
 I answered the following questions from the information gotten: 
